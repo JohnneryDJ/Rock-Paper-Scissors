@@ -1,0 +1,1 @@
+Add this folder to a web directory or open the index.html in your browser.
